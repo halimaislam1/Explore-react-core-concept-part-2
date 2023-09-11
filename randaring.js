@@ -1,0 +1,2 @@
+//In JavaScript, rendering refers to the process of displaying content on a web page or user interface. It involves taking data, usually in the form of HTML, CSS, and possibly JavaScript code, and presenting it visually to the user in a web browser or other rendering environment. Rendering can be a complex process that involves several steps, including:
+// 
